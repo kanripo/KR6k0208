@@ -1,0 +1,4 @@
+001-1080a00	X 001-1080a	buddhist/X-xuzang/X74/10/X74-1080.png
+001-1080b00	X 001-1080b	buddhist/X-xuzang/X74/10/X74-1080.png
+001-1080c00	X 001-1080c	buddhist/X-xuzang/X74/10/X74-1080.png
+001-1081a00	X 001-1081a	buddhist/X-xuzang/X74/10/X74-1081.png
